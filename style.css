@@ -1,0 +1,13 @@
+.card{
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #ccc;
+}
+.destacar{
+    background-color: #fff3cd;
+
+}
+.inactiva{
+    opacity: 0.5;
+}
